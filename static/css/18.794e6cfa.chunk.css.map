@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/travis/build/kfarnung/puzztool/src/Views/Reference/NavalFlagTable.scss"],"names":[],"mappings":"AAAA,+BAEI,cAAe,CACf,eAAiB,CAHrB,2BAOI,WAAY","file":"18.794e6cfa.chunk.css","sourcesContent":[".NavalFlagTable {\n  .flagCharacter {\n    font-size: 72px;\n    font-weight: bold;\n  }\n\n  .flagImage {\n    width: 100px;\n  }\n}\n"]}
