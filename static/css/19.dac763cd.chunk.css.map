@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/travis/build/kfarnung/puzztool/src/Views/Cipher/Autokey.scss"],"names":[],"mappings":"AAAA,0BAEI,gBAAqB,CAFzB,uBAMI,mBAAsB","file":"19.dac763cd.chunk.css","sourcesContent":[".Autokey {\n  .Autokey-content {\n    padding: 0px 0px 20px;\n  }\n\n  .Autokey-info {\n    padding: 0px 15px 10px;\n  }\n}\n"]}
