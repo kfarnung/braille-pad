@@ -1,1 +1,0 @@
-{"version":3,"sources":["/home/travis/build/kfarnung/puzztool/src/Views/Cipher/Vigenere.scss"],"names":[],"mappings":"AAAA,4BAEI,gBAAqB,CAFzB,yBAMI,mBAAsB","file":"21.3a8a9fde.chunk.css","sourcesContent":[".Vigenere {\n  .Vigenere-content {\n    padding: 0px 0px 20px;\n  }\n\n  .Vigenere-info {\n    padding: 0px 15px 10px;\n  }\n}\n"]}
