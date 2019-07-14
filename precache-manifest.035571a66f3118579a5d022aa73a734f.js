@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fce921be05520405c68b58f7d2c135a",
+    "revision": "853dcca6f603e4ab2f2ae1e741b34a14",
     "url": "/puzztool/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puzztool/static/css/10.cdbf166c.chunk.css"
   },
   {
-    "revision": "187fb4277a516a0d7875",
-    "url": "/puzztool/static/css/11.b1fb8da4.chunk.css"
+    "revision": "99f70485d5a3de5a6c87",
+    "url": "/puzztool/static/css/11.1562c88e.chunk.css"
   },
   {
     "revision": "5a627ee06d9c44bd8cb8",
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puzztool/static/js/10.44bb28cd.chunk.js"
   },
   {
-    "revision": "187fb4277a516a0d7875",
+    "revision": "99f70485d5a3de5a6c87",
     "url": "/puzztool/static/js/11.49d4149a.chunk.js"
   },
   {
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/puzztool/static/js/main.2f19e083.chunk.js"
   },
   {
-    "revision": "306af35d7451a9221f0b",
-    "url": "/puzztool/static/js/runtime~main.dd5d082f.js"
+    "revision": "1992b0203adc4b41e015",
+    "url": "/puzztool/static/js/runtime~main.62ff7fcf.js"
   },
   {
     "revision": "d6ee0a091b227e756c6eee6661d74252",
