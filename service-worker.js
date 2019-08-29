@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/puzztool/precache-manifest.deadb967baedd347e84148cc4a9ab18d.js"
+  "/puzztool/precache-manifest.3a1b5d02f28b03c4fc1c60cfa76f70ba.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -35,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/puzztool/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
+  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
