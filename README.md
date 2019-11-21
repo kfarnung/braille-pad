@@ -1,7 +1,7 @@
 # puzztool
 
-![puzztool CI](https://github.com/puzztool/puzztool/workflows/puzztool%20CI/badge.svg)
-![puzztool Deploy](https://github.com/puzztool/puzztool/workflows/puzztool%20Deploy/badge.svg)
+![puzztool CI](https://github.com/kfarnung/puzztool/workflows/puzztool%20CI/badge.svg)
+![puzztool Deploy](https://github.com/kfarnung/puzztool/workflows/puzztool%20Deploy/badge.svg)
 
 This is the UI for a tool to help with encodings and ciphers used in puzzle competitions such as [Puzzle Hunt](https://en.wikipedia.org/wiki/Microsoft_Puzzle_Hunt), [Mystery Hunt](http://www.mit.edu/~puzzle/), [Puzzled Pint](http://www.puzzledpint.com/), and many others.
 
