@@ -1,3 +1,5 @@
+import { connectRouter } from 'connected-react-router';
+import { History } from 'history';
 import { combineReducers } from 'redux';
 import { persistReducer } from 'redux-persist';
 import storage from 'redux-persist/lib/storage'
@@ -16,10 +18,11 @@ const encodingPersistConfig = {
   storage,
 }
 
-const createRootReducer = () => combineReducers({
+const createRootReducer = (history: History<any>) => combineReducers({
   cipher: persistReducer(cipherPersistConfig, cipherReducer),
   encoding: persistReducer(encodingPersistConfig, encodingReducer),
   resistor: resistorReducer,
+  router: connectRouter(history),
   wordSearch: wordSearchReducer,
 });
 
