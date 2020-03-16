@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f538b8f35e2922498c8123bafe32560d",
+    "revision": "2996ba693d0acb9dc1b7bc36dcb9f983",
     "url": "/puzztool/index.html"
   },
   {
